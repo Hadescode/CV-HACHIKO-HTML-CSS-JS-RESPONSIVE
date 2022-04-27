@@ -897,9 +897,9 @@ img{
         justify-self: center;
     }
 
-    .home__scroll{
+    /* .home__scroll{
         margin-left: var(--mb-2);
-    }
+    } */
 
     .about__container,
     .skills__container,
