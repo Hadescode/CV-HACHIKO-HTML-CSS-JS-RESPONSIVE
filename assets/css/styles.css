@@ -704,8 +704,8 @@ img{
 
 .project__img{
     /* width: 232px; */
-    width: 80%;
-    height: 100%;
+    width: 60%;
+    /* height: 100%; */
     justify-self: center;
 }
 /*==================== TESTIMONIAL ====================*/
